@@ -1,7 +1,7 @@
-# Source code of the paper "Sizing up the Situation: Towards a Wise Code Completion Model"
+# Source code of the paper "When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference"
 
 ### Datasets
-Download CSN and COFIC into the `datasets` folder. The datasets are available at [CSN(python)](https://s3.amazonaws.com/code-search-net/CodeSearchNet/v2/python.zip) and [COFIC](https://drive.google.com/file/d/1Ai0WMYrIGQQLqBC180mzUVDSbpkgO6uD/view)
+Download CSN and COFIC into the `datasets` folder. The datasets are available at [CSN(python)](https://huggingface.co/datasets/code_search_net) and [COFIC](https://drive.google.com/file/d/1Ai0WMYrIGQQLqBC180mzUVDSbpkgO6uD/view)
 
 ### LCMs
 #### GPT-2
