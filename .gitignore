@@ -1,0 +1,8 @@
+outputs
+useless_files
+font
+cached
+__pycache__
+.vscode
+datasets
+run.py
