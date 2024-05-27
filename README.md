@@ -1,5 +1,8 @@
 # Source code of the paper "When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference"
 
+### Requirements
+transformers == 4.22.2
+
 ### Datasets
 Download CSN and COFIC into the `datasets` folder. The datasets are available at [CSN(python)](https://huggingface.co/datasets/code_search_net) and [COFIC](https://drive.google.com/file/d/1Ai0WMYrIGQQLqBC180mzUVDSbpkgO6uD/view)
 
